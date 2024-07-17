@@ -23,6 +23,7 @@ import com.generation.blogpessoal.repository.PostagemRepository;
 
 import jakarta.validation.Valid;
 
+
 @RestController
 @RequestMapping("/postagens")
 @CrossOrigin(origins = "*", allowedHeaders = "*")
